@@ -1,3 +1,3 @@
 ## Centre for Open Evidence Synthesis
 
-This is a new page - we'll add more content soon!
+This is the GitHub repo for [https://openes.github.io](https://openes.github.io). It is under active development.
