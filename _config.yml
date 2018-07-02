@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 
-exclude["README.md"]
+exclude: ["README.md"]
 
 # theme info
 title : Centre for Open Evidence Synthesis
