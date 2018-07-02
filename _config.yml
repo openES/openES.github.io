@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+
+exlcude["README.md"]
+
+# theme info
+title : Centre for Open Evidence Synthesis
+author :
+  name : Martin Westgate
+  email : martinjwestgate@gmail.com
+  github : mjwestgate
+  twitter : westgatecology
