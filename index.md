@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Centre for Open Evidence Synthesis
 description: Promoting open source software for ES
 ---
