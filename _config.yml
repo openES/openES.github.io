@@ -1,10 +1,8 @@
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: jekyll-theme-minimal
 
 exclude: ["README.md"]
 
 # theme info
 title: Centre for Open Evidence Synthesis
-email: martinjwestgate@gmail.com
-url: https://openes.github.io/
 description: Promoting open source software for ES
-meta_author: Westgate Martin
+logo: assets/img/openES_icon.png
