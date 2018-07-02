@@ -4,8 +4,4 @@ exclude: ["README.md"]
 
 # theme info
 title : Centre for Open Evidence Synthesis
-author :
-  name : Martin Westgate
-  email : martinjwestgate@gmail.com
-  github : mjwestgate
-  twitter : westgatecology
+description: Promoting open source software for ES
